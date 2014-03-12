@@ -16,6 +16,18 @@ var tinyMCETemplateList = [
 	["Library block", "<?php echo $templatepath; ?>/library-block.html", "Library block"],
 	["Simple table", "<?php echo $templatepath; ?>/simple-table.html", "Simple table"],
 	["iStart Action Read", "<?php echo $templatepath; ?>/istart/read.html", "iStart Action Read"]
+	["iStart Action Write", "<?php echo $templatepath; ?>/istart/write.html", "iStart Action Write"]
+	["iStart Action Video", "<?php echo $templatepath; ?>/istart/video.html", "iStart Action Video"]
+	["iStart Action Tutorial", "<?php echo $templatepath; ?>/istart/tutorial.html", "iStart Action Tutorial"]
+	["iStart Action Online", "<?php echo $templatepath; ?>/istart/online.html", "iStart Action Online"]
+	["iStart Action Form", "<?php echo $templatepath; ?>/istart/form.html", "iStart Action Form"]
+	["iStart Action Script", "<?php echo $templatepath; ?>/istart/script.html", "iStart Action Script"]
+	["iStart Action Schedule", "<?php echo $templatepath; ?>/istart/schedule.html", "iStart Action Schedule"]
+	["iStart Action Material", "<?php echo $templatepath; ?>/istart/material.html", "iStart Action Material"]
+	["iStart Action Letter", "<?php echo $templatepath; ?>/istart/letter.html", "iStart Action Letter"]
+	["iStart Action Purchase", "<?php echo $templatepath; ?>/istart/purchase.html", "iStart Action Purchase"]
+	["iStart Action Affirmations", "<?php echo $templatepath; ?>/istart/affirmations.html", "iStart Action Affirmations"]
+	
 ];
 
 /* Disabled CE templates.
