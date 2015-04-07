@@ -16,6 +16,7 @@ var tinyMCETemplateList = [
 	["Library block", "<?php echo $templatepath; ?>/library-block.html", "Library block"],
 	["Simple table", "<?php echo $templatepath; ?>/simple-table.html", "Simple table"],
     ["iStart Tasks Complete", "<?php echo $templatepath; ?>/istart/taskscomplete.html", "iStart Tasks Complete"],
+    ["iStart Action Connect", "<?php echo $templatepath; ?>/istart/connect.html", "iStart Action Connect"],
 	["iStart Action Read", "<?php echo $templatepath; ?>/istart/read.html", "iStart Action Read"],
 	["iStart Action Write", "<?php echo $templatepath; ?>/istart/write.html", "iStart Action Write"],
 	["iStart Action Video", "<?php echo $templatepath; ?>/istart/video.html", "iStart Action Video"],
